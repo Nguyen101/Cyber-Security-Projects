@@ -26,7 +26,7 @@ This repositories is to showcase my work and knowledge within the cyber security
 - Web Security Attack Project
 
 # Homelab Layout  
-
+![Alt text](Cybersecurity-Homelab-Project-Typology-1.png)
 
 # Sources
 - Network: https://cybercademy.org/networking-projects/
