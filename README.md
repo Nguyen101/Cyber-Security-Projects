@@ -26,9 +26,10 @@ This repositories is to showcase my work and knowledge within the cyber security
 - Web Security Attack Project
 
 # Homelab Layout  
-![Alt text](Cybersecurity-Homelab-Project-Typology-1.png)
+Homelab.drawio
 
 # Sources
 - Network: https://cybercademy.org/networking-projects/
 - Vulnhub: https://www.abatchy.com/2017/02/oscp-like-vulnhub-vms
 - Web Security : https://cybercademy.org/web-security-projects/
+
