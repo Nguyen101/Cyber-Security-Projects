@@ -10,7 +10,7 @@ This repositories is to showcase my work and knowledge within the cyber security
 - the secure file sharing device
 - investigate open source incident response tools
 - create a VPN server
-## 2. Vulnhub
+## 2. Pentesting (Vulnhub)
 - Kioptrix: Level 1
 - Kioptrix: Level 1.1
 - Kioptrix: Level 1.2
@@ -20,6 +20,10 @@ This repositories is to showcase my work and knowledge within the cyber security
 - Pwnlab: init
 
 ## 3. Web Application Security/ Pentesting
+- The inspections project
+- Code analysis project
+- Fuzzing Project
+- Web Security Attack Project
 
 # Homelab Layout  
 
@@ -27,3 +31,4 @@ This repositories is to showcase my work and knowledge within the cyber security
 # Sources
 - Network: https://cybercademy.org/networking-projects/
 - Vulnhub: https://www.abatchy.com/2017/02/oscp-like-vulnhub-vms
+- Web Security : https://cybercademy.org/web-security-projects/
