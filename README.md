@@ -1,5 +1,5 @@
 # Cyber-Security-Projects
-This repositories is to showcase my work and knowledge within the cyber security field.
+This repo is a collection of cyber security projects to ddisplay my knowledge within cyber security
 
 # Objectives
 ## 1. Network
