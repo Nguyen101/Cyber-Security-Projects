@@ -2,7 +2,7 @@
 This repo is a collection of cyber security projects to ddisplay my knowledge within cyber security
 
 # Objectives
-## 1. Network
+## 1. Network / Blue team
 - Set up and manage a SIEM
 - Configure an IDS & IPS
 - Deep packet inspection project
