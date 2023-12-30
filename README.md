@@ -1,5 +1,5 @@
 # Cyber-Security-Projects
-This repo is a collection of cyber security projects to display my knowledge within cyber security
+This repository is a collection of cybersecurity projects aimed at helping me gain hands-on experience. While my ultimate goal is to become a Penetration Tester, my current plan is to start as a SOC analyst. I believe gaining blue-team experience is essential because understanding the common layout of network security and familiarizing myself with common FW/IDS/IPS rules will enable me to strategize ways to quietly attack systems without triggering alarms
 
 # Objectives
 ## 1. Network / Blue team
