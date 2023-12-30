@@ -3,6 +3,7 @@ This repository is a collection of cybersecurity projects aimed at helping me ga
 
 # Objectives
 ## 1. Network / Blue team
+- Create a VPN server (Done with OpenVPN)
 - Set up and manage a SIEM
 - Configure an IDS & IPS
 - Deep packet inspection project
