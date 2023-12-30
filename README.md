@@ -9,7 +9,7 @@ This repo is a collection of cyber security projects to display my knowledge wit
 - create a secure backup plan
 - the secure file sharing device
 - investigate open source incident response tools
-- create a VPN server
+- 
 ## 2. Pentesting (Vulnhub)
 - Kioptrix: Level 1
 - Kioptrix: Level 1.1
@@ -26,8 +26,8 @@ This repo is a collection of cyber security projects to display my knowledge wit
 - Web Security Attack Project
 
 # Homelab Layout  
-Homelab.drawio
 
+         
 # Sources
 - Network: https://cybercademy.org/networking-projects/
 - Vulnhub: https://www.abatchy.com/2017/02/oscp-like-vulnhub-vms
