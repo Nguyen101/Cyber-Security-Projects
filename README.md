@@ -1,5 +1,5 @@
 # Cyber-Security-Projects
-This repo is a collection of cyber security projects to ddisplay my knowledge within cyber security
+This repo is a collection of cyber security projects to display my knowledge within cyber security
 
 # Objectives
 ## 1. Network / Blue team
