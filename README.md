@@ -29,7 +29,7 @@ This repository is a collection of cybersecurity projects aimed at helping me ga
 # Homelab Layout  
 
          
-# Sources
+# References
 - Network: https://cybercademy.org/networking-projects/
 - Vulnhub: https://www.abatchy.com/2017/02/oscp-like-vulnhub-vms
 - Web Security : https://cybercademy.org/web-security-projects/
